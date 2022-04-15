@@ -1,0 +1,18 @@
+{
+    "concurrency": 2, 
+    "enabled": true, 
+    "isBlueprint": false, 
+    "key": "securesshandsudo", 
+    "links": [
+        {
+            "order": 20, 
+            "stepKey": "ssmakesudorequirepassword"
+        }, 
+        {
+            "order": 40, 
+            "stepKey": "sspreventsshrootlogin"
+        }
+    ], 
+    "name": "Secure SSH and SUDO", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

@@ -1,0 +1,5 @@
+user={ubuntuDefaultUser.user}
+
+deluser -remove-home $user
+
+less /etc/passwd | grep $user

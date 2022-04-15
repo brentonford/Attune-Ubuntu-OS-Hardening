@@ -1,0 +1,1 @@
+[Fail2ban](https://en.wikipedia.org/wiki/Fail2ban) is intrusion prevention software that protects servers from brute force attacks.

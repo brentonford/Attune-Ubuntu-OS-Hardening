@@ -1,0 +1,1 @@
+Shutdown the node with the reboot flag set and wait until the node has rebooted by checking it was down for two seconds and is active on port 22.

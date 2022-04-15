@@ -1,0 +1,1 @@
+Delete the default user account.

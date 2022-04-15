@@ -1,0 +1,7 @@
+sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin prohibit-password/g' /etc/ssh/sshd_config
+
+cat /etc/ssh/sshd_config
+
+service ssh restart
+
+service ssh status

@@ -1,0 +1,18 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "isBlueprint": false, 
+    "key": "restartlinuxnode", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "shutdownlinuxnodewithrestartflag"
+        }, 
+        {
+            "order": 20, 
+            "stepKey": "isnodeup"
+        }
+    ], 
+    "name": "Restart Linux Node", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

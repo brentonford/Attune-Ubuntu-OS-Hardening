@@ -1,0 +1,5 @@
+{
+    "key": "unattendedupdatesconfig", 
+    "name": "Unattended Updates Config", 
+    "type": "com.servertribe.attune.tuples.FileArchiveVersionedTuple"
+}

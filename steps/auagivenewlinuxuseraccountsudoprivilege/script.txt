@@ -1,0 +1,5 @@
+user={linuxUser.user}
+
+adduser $user sudo
+
+groups $user

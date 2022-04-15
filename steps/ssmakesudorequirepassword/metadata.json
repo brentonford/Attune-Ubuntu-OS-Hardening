@@ -1,0 +1,10 @@
+{
+    "enabled": true, 
+    "interpreter": 1, 
+    "key": "ssmakesudorequirepassword", 
+    "name": "SS Make sudo Require Password", 
+    "osCredKey": "linuxuser", 
+    "serverKey": "linuxnode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

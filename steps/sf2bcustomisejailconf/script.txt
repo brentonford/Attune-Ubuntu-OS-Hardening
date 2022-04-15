@@ -1,0 +1,2 @@
+sed -i 's/# [sshd]/[sshd]/g' /etc/fail2ban/jail.conf
+sed -i 's/# enabled = true/enabled = true/g' /etc/fail2ban/jail.conf

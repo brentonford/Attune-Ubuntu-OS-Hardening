@@ -1,0 +1,26 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "isBlueprint": false, 
+    "key": "unattendedupgradeslinux", 
+    "links": [
+        {
+            "order": 20, 
+            "stepKey": "uulinstallunattendedupgradespackage"
+        }, 
+        {
+            "order": 40, 
+            "stepKey": "uulinstallaptlistchanges"
+        }, 
+        {
+            "order": 60, 
+            "stepKey": "uulpushunattendedupgradesconfig"
+        }, 
+        {
+            "order": 80, 
+            "stepKey": "uultestunattendedupgrade"
+        }
+    ], 
+    "name": "Unattended Upgrades - Linux", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

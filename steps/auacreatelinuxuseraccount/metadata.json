@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "interpreter": 1, 
+    "key": "auacreatelinuxuseraccount", 
+    "name": "AUA Create Linux User Account", 
+    "osCredKey": "ubuntudefaultuser", 
+    "promptResponses": "New password:==={linuxUser.password}\nRetype new password:==={linuxUser.password}\nFull Name []:===\nRoom Number []: ===\nWork Phone []: ===\nHome Phone []: ===\nOther []: ===\nIs the information correct? [Y/n] ===y", 
+    "serverKey": "linuxnode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshPromptedTuple"
+}

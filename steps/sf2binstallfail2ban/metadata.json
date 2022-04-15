@@ -1,0 +1,10 @@
+{
+    "enabled": true, 
+    "interpreter": 1, 
+    "key": "sf2binstallfail2ban", 
+    "name": "SF2B Install fail2ban", 
+    "osCredKey": "linuxuser", 
+    "serverKey": "linuxnode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

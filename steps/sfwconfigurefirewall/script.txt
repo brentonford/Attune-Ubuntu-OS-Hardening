@@ -1,0 +1,1 @@
+ufw allow from {attuneNode.ip} port {sshPort.value}

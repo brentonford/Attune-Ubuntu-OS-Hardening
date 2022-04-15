@@ -1,0 +1,1 @@
+Replace the default user account by creating a new account, setting up privileges,  and then removing the old account.

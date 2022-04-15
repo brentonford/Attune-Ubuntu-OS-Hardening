@@ -1,0 +1,18 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "isBlueprint": false, 
+    "key": "deleteubuntuuseraccountlinux", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "restartlinuxnode"
+        }, 
+        {
+            "order": 60, 
+            "stepKey": "dduadeleteubuntuuser"
+        }
+    ], 
+    "name": "Delete Ubuntu User Account - Linux", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

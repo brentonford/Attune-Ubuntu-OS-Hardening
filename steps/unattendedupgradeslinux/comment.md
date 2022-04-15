@@ -1,0 +1,1 @@
+Enable [Ubuntu unattended upgrades](https://linuxhint.com/enable-disable-unattended-upgrades-ubuntu/).

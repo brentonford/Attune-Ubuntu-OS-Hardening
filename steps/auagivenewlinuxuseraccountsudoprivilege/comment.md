@@ -1,0 +1,1 @@
+Add the new user to the sudo group.

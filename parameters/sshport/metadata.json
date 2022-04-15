@@ -1,0 +1,6 @@
+{
+    "key": "sshport", 
+    "name": "ssh Port", 
+    "showInPlan": false, 
+    "type": "c.s.s.b.phv.Text"
+}

@@ -1,0 +1,11 @@
+{
+    "archiveKey": "unattendedupdatesconfig", 
+    "deployPath": "/etc/apt/apt.conf.d/", 
+    "enabled": true, 
+    "key": "uulpushunattendedupgradesconfig", 
+    "name": "UUL Push Unattended Upgrades Config", 
+    "osCredKey": "linuxuser", 
+    "serverKey": "linuxnode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}

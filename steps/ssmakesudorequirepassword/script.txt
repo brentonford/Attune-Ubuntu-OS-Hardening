@@ -1,0 +1,3 @@
+touch /etc/sudoers.d/010_{linuxUser.user}-nopasswd
+
+echo '{linuxUser.user} ALL=(ALL) PASSWD: ALL' >> /etc/sudoers.d/010_{linuxUser.user}-nopasswd

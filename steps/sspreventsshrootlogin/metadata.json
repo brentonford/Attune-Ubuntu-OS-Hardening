@@ -1,0 +1,10 @@
+{
+    "enabled": true, 
+    "interpreter": 1, 
+    "key": "sspreventsshrootlogin", 
+    "name": "SS Prevent ssh root login", 
+    "osCredKey": "linuxuser", 
+    "serverKey": "linuxnode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}
