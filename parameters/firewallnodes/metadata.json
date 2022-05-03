@@ -1,0 +1,6 @@
+{
+    "key": "firewallnodes", 
+    "name": "Firewall Nodes", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.ServerList"
+}

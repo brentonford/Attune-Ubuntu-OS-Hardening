@@ -1,1 +1,4 @@
-ufw allow from {attuneNode.ip} port {sshPort.value}
+for ip in {firewallNodes.serverIps}
+do
+    ufw allow from $ip port {sshPort.value}
+done
